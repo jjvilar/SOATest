@@ -1,0 +1,168 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Traffic-Format-Version: 1
+Protocol-Id: http-v1
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: connectivitycheck.gstatic.com
+Secure: false
+
+GET /generate_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: connectivitycheck.gstatic.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744131000
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Tue, 18 Jun 2024 20:55:31 GMT
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: play.googleapis.com
+Secure: false
+
+GET /generate_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: play.googleapis.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744131000
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Tue, 18 Jun 2024 20:55:31 GMT
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: connectivitycheck.gstatic.com
+Secure: false
+
+GET /generate_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: connectivitycheck.gstatic.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744132000
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Tue, 18 Jun 2024 20:55:32 GMT
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: www.google.com
+Secure: false
+
+GET /gen_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: www.google.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744132000
+
+HTTP/1.1 204 No Content
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: object-src 'none';base-uri 'self';script-src 'nonce-5KZcol75KEhoqpJDLAVCfw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other
+Permissions-Policy: unload=()
+Date: Tue, 18 Jun 2024 20:55:32 GMT
+Server: gws
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2024-06-18-20; expires=Thu, 18-Jul-2024 20:55:32 GMT; path=/; domain=.google.com; Secure
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: connectivitycheck.gstatic.com
+Secure: false
+
+GET /generate_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: connectivitycheck.gstatic.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744135000
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Tue, 18 Jun 2024 20:55:35 GMT
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Dest-Address: www.google.com
+Secure: false
+
+GET /gen_204 HTTP/1.1
+Connection: close
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+Host: www.google.com
+Accept-Encoding: gzip
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+Timestamp: 1718744135000
+
+HTTP/1.1 204 No Content
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: object-src 'none';base-uri 'self';script-src 'nonce-MvgEvmEtVv9CXjpipjyB7Q' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other
+Permissions-Policy: unload=()
+Date: Tue, 18 Jun 2024 20:55:35 GMT
+Server: gws
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2024-06-18-20; expires=Thu, 18-Jul-2024 20:55:35 GMT; path=/; domain=.google.com; Secure
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+
+
+--AMOjrjbFxXe5ygd62ztxOLRm2Fa4Vx

@@ -1,0 +1,38 @@
+<proxyConfiguration xmlVersion="5" productVersion="0">
+ <ProxyConfiguration className="com.parasoft.stub.proxy.ProxyConfiguration" version="1.2.3">
+  <lastModifiedBy>Juliano Vilar</lastModifiedBy>
+  <id>e615574d-427b-4554-b38c-7edb6086160f-1718397180012</id>
+  <httpListenerCount>1</httpListenerCount>
+  <HttpListener className="com.parasoft.stub.proxy.HttpListener" version="1.2">
+   <type>1</type>
+   <id>fddd21c1-4a60-40c3-badb-e8a61b7668e5</id>
+   <name>PedePronto</name>
+   <portSettingCount>1</portSettingCount>
+   <HttpListenerPort className="com.parasoft.stub.proxy.HttpListenerPort" version="1.3">
+    <keystoreType>PKCS12</keystoreType>
+    <truststoreType>PKCS12</truststoreType>
+    <port>2004</port>
+   </HttpListenerPort>
+  </HttpListener>
+  <proxyCount>1</proxyCount>
+  <SystemProxyConnection className="com.parasoft.stub.proxy.SystemProxyConnection" version="1.3.4">
+   <append>true</append>
+   <file>C:\Users\Juliano Vilar\Trabalho\Parasoft\SOATest_Web\VirtualAssets\recorded_traffic\%n_%d_%t.txt</file>
+   <host>null</host>
+   <port>80</port>
+   <validStatusCodes>100-399</validStatusCodes>
+   <learningEnabled>true</learningEnabled>
+   <listenerId>fddd21c1-4a60-40c3-badb-e8a61b7668e5</listenerId>
+   <SystemProxyTargetConnection className="com.parasoft.stub.proxy.SystemProxyTargetConnection" version="1.1">
+    <mode>2</mode>
+    <host>host.virt.internal</host>
+    <port>80</port>
+   </SystemProxyTargetConnection>
+   <SystemProxyTargetConnection className="com.parasoft.stub.proxy.SystemProxyTargetConnection" version="1.1">
+    <mode>2</mode>
+    <host>host.virt.internal</host>
+    <port>80</port>
+   </SystemProxyTargetConnection>
+  </SystemProxyConnection>
+ </ProxyConfiguration>
+</proxyConfiguration>
